@@ -1,0 +1,15 @@
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\bin\Debug\net5.0\CpmPedidos.Interfaces.deps.json
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\bin\Debug\net5.0\CpmPedidos.Interfaces.dll
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\bin\Debug\net5.0\ref\CpmPedidos.Interfaces.dll
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\bin\Debug\net5.0\CpmPedidos.Interfaces.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\bin\Debug\net5.0\CpmPedidosDomain.dll
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\bin\Debug\net5.0\CpmPedidosDomain.pdb
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.csproj.CopyComplete
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.dll
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\obj\Debug\net5.0\ref\CpmPedidos.Interfaces.dll
+C:\Users\crist\OneDrive\Área de Trabalho\AspEntity\CpmPedidosGitHub\CpmPedidos.Interfaces\obj\Debug\net5.0\CpmPedidos.Interfaces.pdb
